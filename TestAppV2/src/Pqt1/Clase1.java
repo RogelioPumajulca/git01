@@ -8,6 +8,8 @@ public class Clase1 {
 		System.out.println("TestAppV2 18:15");
 		System.out.println("TestAppV2 18:16");
 		System.out.println("TestAppV2 18:17");
+		System.out.println("TestAppV2 18:18");
+		System.out.println("TestAppV2 18:19");
 	}
 
 }
