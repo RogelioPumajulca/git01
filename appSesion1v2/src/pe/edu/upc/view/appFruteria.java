@@ -22,7 +22,6 @@ public class appFruteria {
 		Frutae.soyunmetodoglobal();//
 		
 	}
-
 	// EL STATIC HACE GLOBAL CUALQUIER METODO, POR LO TANTO CUALQUIER OBEJETO DE CUALQUIER CLASE LO PUEDE JALAR
 	
 }

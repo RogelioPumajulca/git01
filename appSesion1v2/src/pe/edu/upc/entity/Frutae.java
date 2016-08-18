@@ -23,7 +23,6 @@ public class Frutae {
 		
 		public void soyunmetodoOBJETO(){}
 		
-		
 		public String getColor() {
 			return color;
 		}
@@ -45,5 +44,6 @@ public class Frutae {
 		public String toString() {
 		// TODO Auto-generated method stub
 		return super.toString()+"-"+this.getColor()+"-"+this.getSabor();
+		
 		}
 }

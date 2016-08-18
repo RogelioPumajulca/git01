@@ -13,7 +13,6 @@ public class Mermeladae extends Frutae { //extends se usa par HERENCIA
 		
 		this.tiempoPreparacion=tiempoPreparacion;
 		this.tipoEnvase=tipoEnvase;
-		
 	}
 
 	public int getTiempoPreparacion() {
