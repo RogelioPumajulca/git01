@@ -9,6 +9,9 @@ public class cla1 {
 			System.out.println("AppTestV4 18:47");
 			System.out.println("AppTestV4 18:48");
 			System.out.println("AppTestV4 18:49");
+			System.out.println("AppTestV4 18:50");
+			System.out.println("AppTestV4 18:51");
+			System.out.println("AppTestV4 18:52");
 	}
 
 }
