@@ -14,6 +14,9 @@ public class cla1 {
 			System.out.println("AppTestV4 18:52");
 			System.out.println("AppTestV4 18:59");
 			System.out.println("AppTestV4 19:07");
+			System.out.println("AppTestV4 19:19");
+			System.out.println("AppTestV4 19:20");
+			
 	}
 
 }
