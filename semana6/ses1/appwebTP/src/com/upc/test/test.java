@@ -41,7 +41,7 @@ public class test {
 			// TODO: handle exception
 		}
 		
-		//Categoria c=cdao.BuscarCategoria(7);
+		//Categoria c=cdao.BuscarCategoria(1);
 		//System.out.println(c.getNombre());
 
 	}
